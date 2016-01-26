@@ -1,6 +1,5 @@
 Z00T:
 ---
-* WiFi MAC Address is incorrect
 * Camera does not work
 * Vibration intensity setting is not working
 * SELinux is permissive
