@@ -1,6 +1,7 @@
 Z00T:
 ---
 * Camera does not work
+* High sensitivity (globe mode) toggle is not working (likely permissions issue)
 * Vibration intensity setting is not working
 * SELinux is permissive
 * more..
