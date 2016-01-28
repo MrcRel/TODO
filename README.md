@@ -1,7 +1,6 @@
 Z00T:
 ---
 * Headphones do not work (likely needs some mixer_paths changes)
-* High sensitivity (glove mode) toggle is not working (likely permissions issue)
 * Vibration intensity setting is not working
 * SELinux is permissive
 * more..
