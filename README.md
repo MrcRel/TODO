@@ -1,6 +1,5 @@
 Z00T:
 ---
-* Vibration intensity setting is not working
 * SELinux is permissive
 * more..
 
