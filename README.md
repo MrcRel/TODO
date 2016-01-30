@@ -1,5 +1,6 @@
 Z00T:
 ---
+* Battery level ( it randomly changes )
 * SELinux is permissive
 * more..
 
