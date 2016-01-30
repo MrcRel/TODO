@@ -1,6 +1,5 @@
 Z00T:
 ---
-* Headphones do not work (plugging in the headphones is not being detected)
 * Vibration intensity setting is not working
 * SELinux is permissive
 * more..
