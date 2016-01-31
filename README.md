@@ -10,4 +10,4 @@ Z00E:
 
 Z00L:
 ---
-* We don't have testing monkey (yet) but issues are likely to be same
+* Apparently it is not booting (yet!).
