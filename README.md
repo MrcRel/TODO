@@ -1,7 +1,8 @@
 Z00T:
 ---
+* Dual speaker support is likely to be broken (ZE601KL)
 * SELinux is permissive
-* more..
+* more...
 
 Z00E:
 ---
