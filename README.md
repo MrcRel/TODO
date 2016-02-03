@@ -1,5 +1,6 @@
 Z00T:
 ---
+* ACDB ids are missing thus audio is too low/loud
 * Dual speaker support is likely to be broken (ZE601KL)
 * SELinux is permissive
 * more...
