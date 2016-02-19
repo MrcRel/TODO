@@ -1,7 +1,7 @@
 Z00T:
 ---
-* ACDB ids are missing thus audio is too low/loud --> Seems fine
-* Dual speaker support is likely to be broken (ZE601KL)
+* ACDB ids are missing thus audio is too low/loud --> luca020400: Audio is fine
+* Dual speaker support is likely to be broken (ZE601KL) --> luca020400: It should be supported ( untested )
 * Decryption does not work in TWRP recovery
 * SELinux is permissive
 * Play Store reports many app as "incompatible"
