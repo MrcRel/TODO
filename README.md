@@ -1,6 +1,6 @@
 Z00T:
 ---
-* Notification LED isn't working
+* LED doesn't blink
 * ACDB ids are missing thus audio is too low/loud
 * Dual speaker support is likely to be broken (ZE601KL) --> luca020400: It should be supported ( untested )
 * Decryption does not work in TWRP recovery
