@@ -1,6 +1,5 @@
 Z00T:
 ---
-* DRM/WV isn't working
 * Notification LED isn't working
 * ACDB ids are missing thus audio is too low/loud --> luca020400: Audio is fine
 * Dual speaker support is likely to be broken (ZE601KL) --> luca020400: It should be supported ( untested )
