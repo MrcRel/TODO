@@ -1,7 +1,6 @@
 Z00T:
 ---
 * ACDB ids are missing thus audio is too low/loud
-* Dual speaker support is broken (ZE601KL)
 * Decryption does not work in TWRP recovery
 * more...
 
